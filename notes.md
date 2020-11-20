@@ -1,0 +1,3 @@
+- Choose a domain you're familiar with! Yoga / Goal Journal
+- Choose a domain you care about 
+- Choose a domain that fits the project specs
